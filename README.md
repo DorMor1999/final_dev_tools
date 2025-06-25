@@ -142,7 +142,6 @@ To remove all containers, network, and backup files:
 
 ## example:
 ![image](https://github.com/user-attachments/assets/d892a092-818b-4e2a-98b5-8900c1fe7b2a)
-![image](https://github.com/user-attachments/assets/d892a092-818b-4e2a-98b5-8900c1fe7b2a)
 
 ---
 
