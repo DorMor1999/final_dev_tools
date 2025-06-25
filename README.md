@@ -3,7 +3,7 @@
 ## 🧑‍🏫 About the Project
 
 This project was developed as a final assignment for the "Development Tools" course (Summer Semester, 2025).
-The goal of the project is to set up and manage a full Joomla-based website infrastructure using Docker, including:
+The goal of the project is to set up and manage a full Joomla-based website infrastructure using Docker, including  : 
 
 - Automated environment setup
 - Database and file backup/restore functionality
