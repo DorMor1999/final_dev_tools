@@ -2,8 +2,7 @@
 
 ## 🧑‍🏫 About the Project
 
-This project was developed as a final assignment for the "Development Tools" course (Summer Semester, 2025), under the guidance of Mr. Tom Gavish.
-
+This project was developed as a final assignment for the "Development Tools" course (Summer Semester, 2025).
 The goal of the project is to set up and manage a full Joomla-based website infrastructure using Docker, including:
 
 - Automated environment setup
