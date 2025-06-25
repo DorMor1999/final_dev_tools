@@ -42,8 +42,8 @@ project-root/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/joomla-docker-project.git
-cd joomla-docker-project
+git clone https://github.com/DorMor1999/final_dev_tools.git
+cd final_dev_tools
 ```
 
 ### 2. Run the Setup Script
