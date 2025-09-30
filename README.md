@@ -14,9 +14,9 @@ The goal of the project is to set up and manage a full Joomla-based website infr
 
 ## 🧑‍💻 Submitted By
 
-- Yehonatan Demenshtien — ID: 204250146
-- Dor Mor — ID: 315097659
-- Ilan Kalantarov — ID: 322815671
+- Yehonatan Demenshtien 
+- Dor Mor 
+- Ilan Kalantarov 
 
 ---
 
